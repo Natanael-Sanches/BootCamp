@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="07310740470fb1106dd157f1d16d437f" label="Produtos" max_length="40" name="x_1259574_gest_o_0_produtos" type="collection">
         <element label="Foto" max_length="40" name="foto" type="user_image"/>
-        <element attributes="edge_encryption_enabled=true" label="Item" max_length="40" name="item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Item" max_length="40" name="item" type="string"/>
         <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
     </element>
 </database>
