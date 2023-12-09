@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget/>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 16:18:01</sys_created_on>
+        <sys_id>dbaf5089470bb5106dd157f1d16d4384</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Mercearia Header Menu</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259574_gest_o_0">2178d204474bb1106dd157f1d16d4346</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">2178d204474bb1106dd157f1d16d4346</sys_scope>
+        <sys_update_name>sp_instance_menu_dbaf5089470bb5106dd157f1d16d4384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 20:14:07</sys_updated_on>
+        <title>Mercearia Header Menu</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=dbaf5089470bb5106dd157f1d16d4384"/>
+</record_update>
